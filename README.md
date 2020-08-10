@@ -104,7 +104,7 @@ mvn package appengine:deploy
       ```
 
   - Website code:
-    - JSON processing and UI updates
+    - JSON processing, Visualizer development, and UI updates
       ```
       src/main/webapp/script.js
       ```
